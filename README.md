@@ -8,6 +8,8 @@ Once you find the flags you submit to the platform. You can try multiple times t
 The main idea is that you read and experiment. Do not go fast to solve the challenges. The final comppetition (next Hackathon) will be set up with a different scoreboard.
 
 For any questions/collaborations: https://www.linkedin.com/in/stylianos-karagiannis/
+
 You can follow also on Research Gate: https://www.researchgate.net/profile/Stylianos-Karagiannis
+
 
 Hack the World and best of Luck!
