@@ -1,0 +1,15 @@
+curl -X 'POST' \
+ 'https://192.168.61.5/api/v2/firewall/rule' \
+ -H 'accept: application/json' \
+ -H 'x-api-key: < db8b91b25d87da99ac8fa12655649c84>' \
+ -H 'Content-Type: application/json' \
+ -d '{
+ "type": "block",
+ "interface": [
+   "WAN"
+ ],
+ "ipprotocol": "inet",
+ "source": "1.1.1.1",
+ "destination": "8.8.8.8",
+ "descr": "Automatic rule by DYNABIC"
+}'
